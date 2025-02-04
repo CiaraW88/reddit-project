@@ -1,2 +1,2 @@
 # reddit-project
-Seconf project with code academy
+Second project with code academy
